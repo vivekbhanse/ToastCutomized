@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FC7A79</color>
+    <color name="colorPrimaryDark">#FD6837</color>
+    <color name="colorAccent">#FC7A79</color>
+    <color name="orange">#FF967A</color>
+    <color name="background_color">#feebe7</color>
+    <color name="bg_color">#fdd8d8</color>
+    <color name="bg_color2">#fde5d9</color>
+    <color name="white_color">#F9F9F9</color>
+    <color name="red">#FF0000</color>
+    <color name="light_gray">#A09E9F</color>
+    <color name="silver">#c1bec4</color>
+    <color name="border">#D5D5D5</color>
+    <color name="green">#4CAF50</color>
+    <color name="text_green">#25A20F</color>
+
+    <color name="menu_text_color">#444444</color>
+
+    <!--    old one-->
+    <color name="colorStatusBar">#25aa92</color>
+    <color name="colorToolBar">#2ed1b4</color>
+    <color name="colorButtonClicked">#20927e</color>
+    <color name="colorBackground">#f2f2f2</color>
+
+    <!--    <color name="colorPrimary">#25AA92</color>-->
+    <!--    <color name="colorPrimaryDark">#000</color>-->
+    <!--    <color name="colorAccent">#FF4081</color>-->
+    <color name="colorblue">#311B92</color>
+    <color name="colorgrey">#eeeeee</color>
+    <color name="colorblack">#000</color>
+    <color name="colorlightblue">#4FC3F7</color>
+
+    <!-- back click colors-->
+    <color name="colorBackClicked">#cccccc</color>
+
+    <!--    <color name="green">#99ff33</color>-->
+    <!--    <color name="red">#ff4000</color>-->
+
+    <color name="blue">#0000FF</color>
+    <color name="lightblue">#00BFFF</color>
+    <color name="lightgray">#D3D3D3</color>
+
+    <color name="gorkhaColor">#25AA92</color>
+
+
+    <color name="white_">#FFFAFA</color>
+
+    <!--    <color name="black">#000000</color>-->
+
+    <color name="searchColor">#2B2937</color>
+    <color name="snow">#e6e6fa</color>
+    <color name="livenamecolor">#213C4D</color>
+
+
+    <color name="color_name_heading">#25AA92</color>
+    <color name="color_lv_heading">#A09E9F</color>
+    <color name="color_text_heading">#A09E9F</color>
+    <color name="color_black_light">#f6efef</color>
+
+    <color name="header_touch">#E2F7E1</color>
+    <color name="header_touch_red">#ED5C34</color>
+    <color name="police_red">#f60000</color>
+    <color name="police_blue">#01007c</color>
+</resources>
